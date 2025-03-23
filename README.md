@@ -83,11 +83,11 @@ pickle
 
 ## Interface Screenshots
 - 🏋️ **Exercise Recommendation System**:
--  [View Screenshot](https://github.com/AdityaTagde/Wellness_Recommendation_system/blob/main/exercise_i.png )
+-  (https://github.com/AdityaTagde/Wellness_Recommendation_system/blob/main/exercise_i.png )
 - 🍽️ **Diet Recommendation System**:
-- [View Screenshot](https://github.com/AdityaTagde/Wellness_Recommendation_system/blob/main/diets_i.png)
+- (https://github.com/AdityaTagde/Wellness_Recommendation_system/blob/main/diets_i.png)
 - 🧘 **Meditation Recommendation System**:
-- [View Screenshot](https://github.com/AdityaTagde/Wellness_Recommendation_system/blob/main/meditation_i.png )
+- (https://github.com/AdityaTagde/Wellness_Recommendation_system/blob/main/meditation_i.png )
 
 ## Future Improvements
 - Integrate exercise GIFs for better visualization.
