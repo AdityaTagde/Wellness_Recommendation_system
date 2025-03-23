@@ -1,1 +1,16 @@
- pytz, watchdog, urllib3, tzdata, typing-extensions, tornado, toml, tenacity, smmap, six, rpds-py, pyarrow, protobuf, pillow, packaging, numpy, narwhals, MarkupSafe, idna, colorama, charset-normalizer, certifi, cachetools, blinker, attrs, requests, referencing, python-dateutil, jinja2, gitdb, click, pydeck, pandas, jsonschema-specifications, gitpython, jsonschema, altair, streamlit
+# Core Libraries
+numpy==1.26.4
+pandas==2.2.1
+scikit-learn==1.6.1
+scipy==1.13.1
+
+# Machine Learning & NLP
+gensim==4.3.3
+sentence-transformers==2.2.2
+transformers==4.50.0
+
+# Web Framework
+streamlit==1.30.0
+
+# Misc Utilities
+tqdm==4.66.2
