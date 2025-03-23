@@ -23,7 +23,7 @@ Ensure you have the following installed:
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/wellness-recommendation-system.git
+   git clone https://github.com/AdityaTagde/wellness-recommendation-system.git
    cd wellness-recommendation-system
    ```
 
