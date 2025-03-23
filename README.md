@@ -81,6 +81,11 @@ pickle
 - **Sentence Transformers**: Used for Meditation Recommendations
 - **Streamlit**: For building an interactive UI
 
+## Interface Screenshots
+- 🏋️ **Exercise Recommendation System**: [View Screenshot](https://your-image-link.com/exercise.png)
+- 🍽️ **Diet Recommendation System**: [View Screenshot](https://your-image-link.com/diet.png)
+- 🧘 **Meditation Recommendation System**: [View Screenshot](https://your-image-link.com/meditation.png)
+
 ## Future Improvements
 - Integrate exercise GIFs for better visualization.
 - Expand dataset for more personalized recommendations.
