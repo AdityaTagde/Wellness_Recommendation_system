@@ -82,9 +82,12 @@ pickle
 - **Streamlit**: For building an interactive UI
 
 ## Interface Screenshots
-- 🏋️ **Exercise Recommendation System**: [View Screenshot](https://your-image-link.com/exercise.png)
-- 🍽️ **Diet Recommendation System**: [View Screenshot](https://your-image-link.com/diet.png)
-- 🧘 **Meditation Recommendation System**: [View Screenshot](https://your-image-link.com/meditation.png)
+- 🏋️ **Exercise Recommendation System**:
+-  [View Screenshot](https://github.com/AdityaTagde/Wellness_Recommendation_system/blob/main/exercise_i.png )
+- 🍽️ **Diet Recommendation System**:
+- [View Screenshot](https://github.com/AdityaTagde/Wellness_Recommendation_system/blob/main/diets_i.png)
+- 🧘 **Meditation Recommendation System**:
+- [View Screenshot](https://github.com/AdityaTagde/Wellness_Recommendation_system/blob/main/meditation_i.png )
 
 ## Future Improvements
 - Integrate exercise GIFs for better visualization.
